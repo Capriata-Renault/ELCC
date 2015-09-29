@@ -5,14 +5,14 @@
 
 
 <section id="slider">
-        <?php echo do_shortcode('[image-carousel showcaption="true"]'); ?>  
+    <?php echo do_shortcode('[image-carousel showcaption="false"]'); ?>  
 </section><!-- slider -->
 
 <section data-sr="text-left" id="offres">
     <div class="container">
         <div class="row">
             <div class="col-sm-12">
-                <h2 class="x-large text-center">découvrez nos différentes offres adaptées à vos besoins pédagogiques</h2>
+                <h2 class="x-large text-center ">découvrez nos différentes offres adaptées à vos besoins pédagogiques</h2>
             </div> <!--col-sm-12-->
         </div> <!--row-->
         <div class="row">    

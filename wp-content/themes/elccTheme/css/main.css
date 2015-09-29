@@ -27,7 +27,6 @@ h2 {
 }
 h2, h3, h4, p{
     margin-bottom: 1em;}
-
 .x-large {
     font-size: 2.5em;}
 .large {
@@ -52,6 +51,7 @@ img {
 *****************************
 **********NOS OFFRES*********
 *****************************
+.offres{padding-right:2em; padding-left: 2em; }
 
 *****************************
 ************COURS************
@@ -65,25 +65,7 @@ img {
 ***********CONTACT***********
 *****************************
 
-
-
 *****************************
 ***********FOOTER************
 *****************************
 
-/*.equipe{
-    display : block; Très important, sinon les dimensions ne sont pas prises en compte
-    background : url(../img/astierf.jpg) no-repeat;
-}
-#footer{
-    background-color: black;
-}
-#footer{
-    padding:5em 0 5em 0;
-}
-#footer img{
-    width:40%;
-}
-#footer img:hover{
-    opacity:0.7;
-}*/

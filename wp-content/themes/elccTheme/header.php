@@ -10,10 +10,14 @@
     <meta name="description" content="Le concours de recrutement des professeurs des écoles">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
 
+   
+
     <script src="<?php bloginfo('template_url'); ?>/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
     <script>(function(){document.documentElement.className='js'})();</script>
-    <script src="<?php bloginfo('template_url'); ?>/js/vendor/jquery-1.11.2.min.js"></script>
-    <script src="<?php bloginfo('template_url'); ?>/js/vendor/scrollReveal.min.js"></script>
+    <script src="<?php bloginfo('template_url'); ?>/js/vendor/jquery-1.11.2.js"></script>
+    <script src="<?php bloginfo('template_url'); ?>/js/vendor/bootstrap.min.js"></script>
+    <script src="<?php bloginfo('template_url'); ?>/js/vendor/bootstrap.js"></script>
+
     
     <link rel="stylesheet" type="text/css" href="<?php bloginfo('template_url'); ?>/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="<?php bloginfo('template_url'); ?>/css/main.css">
@@ -38,7 +42,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="#">W.E.B</a>
+            <a class="navbar-brand" href="#">elcc</a>
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
