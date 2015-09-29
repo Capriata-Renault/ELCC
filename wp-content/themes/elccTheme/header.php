@@ -32,7 +32,7 @@
     <![endif]-->
     
     
-    <nav id="truc" class="navbar navbar-default navbar-fixed-top truc">
+    <nav id="nav-bar" class="navbar navbar-default navbar-fixed-top">
         <div class="container-fluid">
         <!-- Brand and toggle get grouped for better mobile display -->
         <div class="navbar-header">
@@ -47,15 +47,13 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
-                <li><a href="#agence">L'Agence</a></li>
-                <li><a href="#equipe">L'Equipe</a></li>
-                <li><a href="#solution">Nos Solutions</a></li>
-                <li><a href="#realisation">Nos Réalisations</a></li>
-                <li><a href="#question">Un Projet ?</a></li>
-                <li><a href="#tel">Nous Contacter</a></li>
+                <li><a href="#agence">L'ecole</a></li>
+                <li><a href="#equipe">Les cours</a></li>
+                <li><a href="#solution">Partenariats</a></li>
+                <li><a href="#realisation">Actualités</a></li>
+                <li><a href="#question">Contact</a></li>
             </ul>
         </div><!-- /.navbar-collapse -->
         </div><!-- /.container-fluid -->
-        
     </nav>
 </header>
