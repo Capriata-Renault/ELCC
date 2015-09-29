@@ -3,14 +3,12 @@
 
 
 
-<section id =''>
- <!--Affiche un slider automatique sur toute la largeur de la page-->
-    <div class="container_slider">
-        <?php echo do_shortcode('[image-carousel showcaption="true"]'); ?>
-    </div><!-- /container_slider -->
-</section>
 
-<section data-sr="" id="offres">
+<section id="slider">
+        <?php echo do_shortcode('[image-carousel showcaption="true"]'); ?>  
+</section><!-- slider -->
+
+<section data-sr="text-left" id="offres">
     <div class="container">
         <div class="row">
             <div class="col-sm-12">
@@ -98,8 +96,7 @@
 </section>
 
 
-
-<!--<script>window.sr = new scrollReveal();</script>   -->
+<!--<script>window.sr = new scrollReveal();</script>  -->
 <?php endwhile;else : ?>
     <p>desolé pas de centres pour l'instant...</p>
 <?php endif; ?>

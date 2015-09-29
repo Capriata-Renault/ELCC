@@ -26,9 +26,7 @@
     <!--[if lt IE 8]>
         <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
     <![endif]-->
-    <div class="container_slider">
-        <?php echo do_shortcode('[image-carousel showcaption="true"]'); ?>  
-    </div><!-- /container_slider -->
+    
     
     <nav id="truc" class="navbar navbar-default navbar-fixed-top truc">
         <div class="container-fluid">

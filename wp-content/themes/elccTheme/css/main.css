@@ -71,7 +71,7 @@ img {
 ***********FOOTER************
 *****************************
 
-.equipe{
+/*.equipe{
     display : block; Très important, sinon les dimensions ne sont pas prises en compte
     background : url(../img/astierf.jpg) no-repeat;
 }
@@ -86,4 +86,4 @@ img {
 }
 #footer img:hover{
     opacity:0.7;
-}
+}*/
