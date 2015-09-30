@@ -8,11 +8,11 @@
     <?php echo do_shortcode('[image-carousel showcaption="false"]'); ?>  
 </section><!-- slider -->
 
-<section data-sr="text-left" id="offres">
+<section data-sr="text-left" id="offres"> 
     <div class="container">
         <div class="row">
-            <div class="col-sm-12">
-                <h2 class="x-large text-center ">découvrez nos différentes offres adaptées à vos besoins pédagogiques</h2>
+            <div class="col-sm-12 texte-offre">
+                <h2 class=" x-large text-center texte-offre">découvrez nos différentes offres adaptées à vos besoins pédagogiques</h2>
             </div> <!--col-sm-12-->
         </div> <!--row-->
         <div class="row">    
@@ -75,21 +75,21 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-6">
-                <h2 class="x-large text-left">contact</h2>
+                <h2 class="x-large text-left">nous contacter</h2>
             </div> <!--col-sm-6-->
             <div class="col-sm-6">
-               <h2 class="x-large text-center">n'hésitez pas</h2>
+               <p class="text-left">n'hésitez pasLorem ipsum dolor sit amet, consectetur adipiscing dolor sit amet, consectetur adipiscing</p>
             </div> <!--col-sm-6-->
         </div> <!--row-->
         <div class="row">
             <div class="col-sm-6">
-                <h3 class=" text-left">contact</h3>
-                <h3 class=" text-left">contact</h3>
-                <h3 class=" text-left">contact</h3>
-                <h3 class=" text-left">contact</h3>
+                <h3 class=" text-left">telephone</h3>
+                <h4 class=" text-left">contact@contact.com</h4>
+                <h4 class=" text-left">Ecole de langue<br><br>et de culture chinoise de Paris<br><br>23 rue des trois freres 75018 Paris</h4>
+          
             </div> <!--col-sm-12-->
-            <div class="col-sm-6">
-                <h2 class="x-large text-center">formulaire</h2>
+            <div class="form-index">
+                <?php echo do_shortcode ('[contact-form-7 id="10" title="Formulaire de contact 1"]');?>
             </div> <!--col-sm-6-->
         </div> <!--row-->
     </div> <!--container -->
