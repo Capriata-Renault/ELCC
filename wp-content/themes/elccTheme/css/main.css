@@ -1,6 +1,4 @@
-**********************************************
-********* css commun à toute la page *********
-**********************************************
+/*-----------------------CSS COMMUN A TOUTES LES PAGES---------------------------*/
 
 @import url(https://fonts.googleapis.com/css?family=Titillium+Web);
 
@@ -49,7 +47,9 @@ img {
     padding-bottom: 1em;}
 .navbar{
     top: 2em;}
+/*-----------------------------------------header----------------------------------------*/
 
+/*---------------------------------------page index--------------------------------------*/
 /******************************
 **********NOS OFFRES***********
 ******************************/
@@ -61,8 +61,8 @@ img {
 /******************************
 ************ACTU*************
 ******************************/
-#actu h3{margin:0 0 0.5em 0 ;}
-#actu p{margin: 0 0.8em 0 0; padding: 0 0 0 1em; font-weight: bold;}
+#actu h3{margin:0 0 0.5em 0 ; font-weight: bold;}
+#actu p{margin: 0 0.8em 0 0; padding: 0 0 0 1em; }
 #actu a{width: 5.5em; padding: 0; margin:0 1em 0.5em 0;}
 /******************************
 ***********CONTACT***********
@@ -81,12 +81,40 @@ textarea:-moz-placeholder {color:white;}
 #contact p{padding: 2.8em 0 0 0 ; color:white;} 
 .btn-contact {text-align:right;}
 .form-index {padding-top: 1.8em;}
+
+/*----------------------------------------------------page ecole----------------------------------*/
+/*----------------------------------------------------page partenaire-----------------------------*/
+/*----------------------------------------------------page actualité blog-------------------------*/
+/*----------------------------------------------------page contact--------------------------------*/
+
+/*------------------------------------------------------footer-------------------------------------*/
+#footer{margin-top: 1.5em;}
+#footer h3{text-transform: uppercase; font-weight: bold; font-size: 1.2em;}
+#footer p{margin: 0;  text-transform: initial}
+#footer > img{margin: 0 0 2em 0;}
+.footer-ecole  , .footer-form-chin{padding-left: 5em;}
 /******************************
-***********FOOTER************
+*******ROW LOGO DE LECOLE*****
+******************************/
+.logo-footer{margin: 1.4em 0 4.5em 0;}
+.h3-col-droite{padding:0 0 1em 0;}
+/******************************
+*****ROW FORMATION CHINOIS*****
 ******************************/
 
-.logo-footer{margin: 1.5em 0 0 0;}
+/******************************
+*********ROW LECOLE************
+******************************/
+
+/******************************
+********ROW SUIVEZ NOUS********
+******************************/
 .picto-reseaux{padding: 0 2em 0 0;}
 .div-reseaux{padding: 0 0 0 2em;}
+.div-reseaux h3{padding:0 0 0.7em 0;}
 .picto-reseaux-last{padding: 0 ;}
-
+/******************************
+********MENTIONS********
+******************************/
+.mentions{border-top:1px solid black; margin:2em 0 0 0;}
+.mentions .p-mentions{ padding:2em 0 0 0;}

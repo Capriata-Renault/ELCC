@@ -63,7 +63,7 @@
                     <a class="col-sm-3 hidden-xs btn btn-default" href="#" role="button">formation</a>
                     <a class="col-sm-3 hidden-xs btn btn-default" href="#" role="button">pedagogie</a>
                     <a class="col-sm-3 hidden-xs btn btn-default" href="#" role="button">pedagogie</a>
-                    <p class="col-sm-12 hidden-xs text-left">Wh elements are supported within our nav and navbar components.</p>
+                    <p class="col-sm-12 hidden-xs text-left"><a href="#">Wh elements are supported within our nav and navbar components.</a></p>                    
                 </div>
             </figure>
             <figure class="col-sm-4 text-center ">
@@ -74,7 +74,7 @@
                     <a class="col-sm-3 hidden-xs	 btn btn-default" href="#" role="button">formation</a>
                     <a class="col-sm-3 hidden-xs btn btn-default" href="#" role="button">pedagogie</a>
                     <a class="col-sm-3 hidden-xs btn btn-default" href="#" role="button">pedagogie</a>
-                    <p class="col-sm-12 hidden-xs text-left">Wh elements are supported within our nav and navbar components.</p>
+                    <p class="col-sm-12 hidden-xs text-left"><a href="#">Wh elements are supported within our nav and navbar components.</a></p>
                 </div>
             </figure>
            
