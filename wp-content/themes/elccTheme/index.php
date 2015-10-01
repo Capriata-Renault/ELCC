@@ -16,19 +16,19 @@
             </div> <!--col-sm-12-->
         </div> <!--row-->
         <div class="row">    
-            <figure class="col-sm-3 jerome">
+            <figure class="col-sm-3">
                 <img src ="<?php bloginfo('template_directory'); ?>/img/astierf.jpg" alt="img 1">
                 <h3>cours enfant</h3>
             </figure>
-            <figure class="col-sm-3 jerome">
+            <figure class="col-sm-3">
                 <img src ="<?php bloginfo('template_directory'); ?>/img/astierf.jpg" alt="img 2">
                 <h3>cours adultes</h3>
             </figure>
-            <figure class="col-sm-3 jerome">
+            <figure class="col-sm-3">
                 <img src ="<?php bloginfo('template_directory'); ?>/img/astierf.jpg" alt="img 3">
                 <h3>partenariats</h3>
             </figure>
-            <figure class="col-sm-3 jerome">
+            <figure class="col-sm-3">
                 <img src ="<?php bloginfo('template_directory'); ?>/img/astierf.jpg" alt="img 4">
                 <h3>formation pro</h3>
             </figure>
@@ -51,21 +51,37 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-12">
-                <h2 class="x-large text-left">actu</h2>
+                <h2 class="x-large text-left">actualités</h2>
             </div> <!--col-sm-12-->
         </div> <!--row-->
         <div class="row">    
-            <figure class="col-sm-4 jerome">
-                <img src ="<?php bloginfo('template_directory'); ?>/img/astierf.jpg" alt="img 4">
-                <h3>actu 1</h3>
+            <figure class="col-sm-4">
+                <img src ="<?php bloginfo('template_directory'); ?>/img/photo1.jpg" alt="img 4">
+                <h3 class="text-left small"><a href="#">Formation à distance : les plus</a></h3>
+                <div class="row">
+                    <p class="col-sm-3 hidden-xs text-left ">19.09.2015</p>
+                    <a class="col-sm-3 hidden-xs btn btn-default" href="#" role="button">formation</a>
+                    <a class="col-sm-3 hidden-xs btn btn-default" href="#" role="button">pedagogie</a>
+                    <a class="col-sm-3 hidden-xs btn btn-default" href="#" role="button">pedagogie</a>
+                    <p class="col-sm-12 hidden-xs text-left">Wh elements are supported within our nav and navbar components.</p>
+                </div>
             </figure>
-            <figure class="col-sm-4 jerome">
-                <img src ="<?php bloginfo('template_directory'); ?>/img/astierf.jpg" alt="img 4">
-                <h3>actu 2</h3>
+            <figure class="col-sm-4 text-center ">
+                <img src ="<?php bloginfo('template_directory'); ?>/img/photo1.jpg" alt="img 4">
+                <h3 class="text-left small"><a href="#">Formation à distance : les plus</a></h3>
+                <div class="row">
+                    <p class="col-sm-3 hidden-xs text-left ">19.09.2015</p>
+                    <a class="col-sm-3 hidden-xs	 btn btn-default" href="#" role="button">formation</a>
+                    <a class="col-sm-3 hidden-xs btn btn-default" href="#" role="button">pedagogie</a>
+                    <a class="col-sm-3 hidden-xs btn btn-default" href="#" role="button">pedagogie</a>
+                    <p class="col-sm-12 hidden-xs text-left">Wh elements are supported within our nav and navbar components.</p>
+                </div>
             </figure>
-            <figure class="col-sm-4 jerome">
-                <img src ="<?php bloginfo('template_directory'); ?>/img/astierf.jpg" alt="img 4">
-                <h3>twitter</h3>
+           
+           
+            <figure class="col-sm-3 col-sm-offset-1">
+                <a class="twitter-timeline" href="https://twitter.com/Jr_of_Montmatre" data-widget-id="649562363562225664">Tweets de @Jr_of_Montmatre</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
             </figure>
         </div><!--row-->
     </div> <!--container -->

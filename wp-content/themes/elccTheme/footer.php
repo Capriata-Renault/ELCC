@@ -14,20 +14,20 @@
 <section id="footer">
     <div class="container">
         <div class="row">
-            <div class="col-sm-3">
+            <div class="col-sm-4">
                 <h3> col 1</h3>
             </div> 
      
-            <div class="col-sm-3">
-                <h3> col 2</h3>
+            <div class="col-sm-2">
+                <h3>Formations chinois</h3>
             </div> 
      
-            <div class="col-sm-3">
-                <h3> col 3</h3>
+            <div class="col-sm-2">
+                <h3>L'école</h3>
             </div> 
      
-            <div class="col-sm-3">
-                <h3> col 4</h3>
+            <div class="col-sm-4">
+                <h3>Suivez-nous</h3>
             </div> 
      
         
