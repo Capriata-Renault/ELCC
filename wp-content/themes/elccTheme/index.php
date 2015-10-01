@@ -5,7 +5,7 @@
 
 
 <section id="slider">
-    <?php echo do_shortcode('[image-carousel showcaption="false"]'); ?>  
+    <?php echo do_shortcode('[image-carousel showcaption="true"]'); ?>  
 </section><!-- slider -->
 
 <section data-sr="text-left" id="offres"> 
