@@ -14,20 +14,27 @@
 <section id="footer">
     <div class="container">
         <div class="row">
-            <div class="col-sm-4">
-                <h3> col 1</h3>
+            <div class="col-sm-3 text-left">
+                <img class="logo-footer" src ="<?php bloginfo('template_directory'); ?>/img/logo-school.jpg" alt="logo ecole">
+
             </div> 
      
-            <div class="col-sm-2">
+            <div class="col-sm-3 ">
                 <h3>Formations chinois</h3>
             </div> 
      
-            <div class="col-sm-2">
+            <div class="col-sm-3">
                 <h3>L'école</h3>
             </div> 
      
-            <div class="col-sm-4">
-                <h3>Suivez-nous</h3>
+            <div class="col-sm-3 div-reseaux">
+                <h3>Suivez-nous</h3
+                <div class="row">
+                    <img class="picto-reseaux" src ="<?php bloginfo('template_directory'); ?>/img/img-footer.jpg" alt="reseaux sociaux">
+                    <img class="picto-reseaux" src ="<?php bloginfo('template_directory'); ?>/img/img-footer.jpg" alt="reseaux sociaux">
+                    <img class="picto-reseaux-last" src ="<?php bloginfo('template_directory'); ?>/img/img-footer.jpg" alt="reseaux sociaux">
+                    
+                 </div>
             </div> 
      
         

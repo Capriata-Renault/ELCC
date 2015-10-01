@@ -84,5 +84,9 @@ textarea:-moz-placeholder {color:white;}
 /******************************
 ***********FOOTER************
 ******************************/
-#footer{font-size: 0.6em; font-weight: lighter;}
+
+.logo-footer{margin: 1.5em 0 0 0;}
+.picto-reseaux{padding: 0 2em 0 0;}
+.div-reseaux{padding: 0 0 0 2em;}
+.picto-reseaux-last{padding: 0 ;}
 
