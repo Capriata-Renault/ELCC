@@ -87,6 +87,7 @@ textarea:-moz-placeholder {color:white;}
 #contact ::-moz-placeholder { color: #fff; }
 #contact :-moz-placeholder { color: #fff; }
 #contact p{padding: 2.8em 0 0 0 ; color:white;} 
+.btn-contact {text-align:right; }
 .btn-contact {text-align:right;}
 .form-index {padding-top: 1.8em;}
 
@@ -117,7 +118,7 @@ textarea:-moz-placeholder {color:white;}
 /******************************
 ********ROW SUIVEZ NOUS********
 ******************************/
-.picto-reseaux{padding: 0 2em 0 0;}
+.picto-reseaux{padding: 0 1.2em 0 0;}
 .div-reseaux{padding: 0 0 0 2em;}
 .div-reseaux h3{padding:0 0 0.7em 0;}
 .picto-reseaux-last{padding: 0 ;}

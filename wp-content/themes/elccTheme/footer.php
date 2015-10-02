@@ -18,9 +18,9 @@
                 <a href="#"><img class="logo-footer" src ="<?php bloginfo('template_directory'); ?>/img/logo-school.jpg" alt="logo ecole"></a>
                 <h3 class="h3-col-droite text-left">ils nous ont fait confiance</h3>
                 <div class="row">
-                    <a href="#"><img class="picto-reseaux" src ="<?php bloginfo('template_directory'); ?>/img/img-footer.jpg" alt="reseaux sociaux"></a>
-                    <a href="#"><img class="picto-reseaux" src ="<?php bloginfo('template_directory'); ?>/img/img-footer.jpg" alt="reseaux sociaux"></a>
-                    <a href="#"><img class="picto-reseaux" src ="<?php bloginfo('template_directory'); ?>/img/img-footer.jpg" alt="reseaux sociaux"></a>
+                    <a href="#"><img class="picto-reseaux" src ="<?php bloginfo('template_directory'); ?>/img/logo-footer.jpg" alt="reseaux sociaux"></a>
+                    <a href="#"><img class="picto-reseaux" src ="<?php bloginfo('template_directory'); ?>/img/logo-footer.jpg" alt="reseaux sociaux"></a>
+                    <a href="#"><img class="picto-reseaux" src ="<?php bloginfo('template_directory'); ?>/img/logo-footer.jpg" alt="reseaux sociaux"></a>
                 </div>
             </div> 
             <div class="col-sm-3 text-left footer-form-chin">
@@ -56,9 +56,9 @@
                 </div><br><br>
                 <h3>Liens partenaires</h3>
                 <div class="row">
-                    <a href="#"><img class="picto-reseaux" src ="<?php bloginfo('template_directory'); ?>/img/img-footer.jpg" alt="reseaux sociaux"></a>
-                    <a href="#"><img class="picto-reseaux" src ="<?php bloginfo('template_directory'); ?>/img/img-footer.jpg" alt="reseaux sociaux"></a>
-                    <a href="#"><img class="picto-reseaux" src ="<?php bloginfo('template_directory'); ?>/img/img-footer.jpg" alt="reseaux sociaux"></a>
+                    <a href="#"><img class="picto-reseaux" src ="<?php bloginfo('template_directory'); ?>/img/logo-footer.jpg" alt="reseaux sociaux"></a>
+                    <a href="#"><img class="picto-reseaux" src ="<?php bloginfo('template_directory'); ?>/img/logo-footer.jpg" alt="reseaux sociaux"></a>
+                    <a href="#"><img class="picto-reseaux" src ="<?php bloginfo('template_directory'); ?>/img/logo-footer.jpg" alt="reseaux sociaux"></a>
                  </div>
             </div> 
         </div> <!--row-->
