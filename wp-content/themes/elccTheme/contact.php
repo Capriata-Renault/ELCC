@@ -12,7 +12,7 @@ Récuperation du header
 <?php if (have_posts()) : while (have_posts()) : the_post(); ?>
  
  
- <section data-sr="" id="contact" class="page-contact">
+ <section data-sr="" id="page-contact">
 <img src ="<?php bloginfo('template_directory'); ?>/img/photo-fond.jpg" alt="img 1">
 
 
@@ -21,9 +21,7 @@ Récuperation du header
             <div class="col-sm-6">
                 <h2 class="x-large text-left">nous contacter</h2>
             </div> <!--col-sm-6-->
-            <div class="col-sm-6">
-               <p class="text-left">n'hésitez pasLorem ipsum dolor sit amet, consectetur adipiscing dolor sit amet, consectetur adipiscing</p>
-            </div> <!--col-sm-6-->
+            
         </div> <!--row-->
         <div class="row">
             <div class="col-sm-6">
