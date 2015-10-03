@@ -23,30 +23,24 @@
 
 <body>
 
- 
-  
-        <div class="navbar navbar-default navbar-fixed-top hidden-xs">
-           
-               
-                
-           
-                <div class="container">
-                    <div="row">
-                        <div class="col-sm-6">
-                            <a class="logo_nav" href="/elcc">
-                                <img class="logo" src="<?php echo get_template_directory_uri() ?>/img/logo-school-haut.jpg" alt="" />
-                            </a>
-                        </div>
-                        <div class="col-sm-6">
-                            <nav class="navbar-collapse collapse">
-                            <?php wp_nav_menu( array( 'theme_location' => 'header-menu',
-                                                      'menu_class' => 'nav navbar-nav navbar-right'
-                            ) ); ?>
-                            </nav>
-                        </div>
-                    </div>
-             </div><!-- /container -->
+ <div class="navbar navbar-default navbar-fixed-top hidden-xs">
+    <div class="container">
+        <div="row">
+            <div class="col-sm-4">
+                <a class="logo_nav" href="/elcc">
+                    <img class="logo" src="<?php echo get_template_directory_uri() ?>/img/logo-school-haut.jpg" alt="" />
+                </a>
             </div>
+            <div class="col-sm-8">
+                <nav class="navbar-collapse collapse">
+                <?php wp_nav_menu( array( 'theme_location' => 'header-menu',
+                                          'menu_class' => 'nav navbar-nav navbar-right'
+                ) ); ?>
+                </nav>
+            </div>
+        </div>
+    </div><!-- /container -->
+</div>
        
     
     

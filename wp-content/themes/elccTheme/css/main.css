@@ -47,8 +47,12 @@ img {
     padding-bottom: 1em;}
 .navbar{
     top: 2em;}
-/*-----------------------------------------header----------------------------------------*/
-
+/*-----------------------------------------header---------------------------------------}-*/
+.navbar-default .navbar-nav>li>a { padding: 1em 0 0.3em 0; }
+.navbar-default .navbar-nav>li>a:hover {color: #777; border-bottom: 3px solid red; }
+.navbar-default  {background-color: white; }
+.navbar-default .navbar-nav>li {margin: 0 4em 0 0; font-weight: bold; }
+.navbar-default .navbar-nav>li:last-child {margin: 0; }
 /*---------------------------------------page index--------------------------------------*/
 /******************************
 **********SLIDER***************
@@ -97,7 +101,7 @@ textarea:-moz-placeholder {color:white;}
 /*----------------------------------------------------page contact--------------------------------*/
 #contact img{padding: 0;}
 /*------------------------------------------------------footer-------------------------------------*/
-#footer{border-top: 1px solid #15b2c7; padding-top: 1em; }
+#footer{border-top: 1px solid black; padding: 1em 0 2em 0; }
 #footer h3{text-transform: uppercase; font-weight: bold; font-size: 1.2em;}
 #footer p{margin: 0;  text-transform: initial}
 #footer > img{margin: 0 0 2em 0;}
@@ -126,4 +130,4 @@ textarea:-moz-placeholder {color:white;}
 ********MENTIONS********
 ******************************/
 .mentions{border-top:1px solid black; margin:2em 0 0 0;}
-.mentions .p-mentions{ padding:2em 0 0 0;}
+.mentions .p-mentions{ padding:1.5em 0 0 0;}
