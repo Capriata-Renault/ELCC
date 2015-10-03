@@ -95,9 +95,9 @@ textarea:-moz-placeholder {color:white;}
 /*----------------------------------------------------page partenaire-----------------------------*/
 /*----------------------------------------------------page actualité blog-------------------------*/
 /*----------------------------------------------------page contact--------------------------------*/
-
+#contact img{padding: 0;}
 /*------------------------------------------------------footer-------------------------------------*/
-#footer{margin-top: 1.5em;}
+#footer{border-top: 1px solid #15b2c7; padding-top: 1em; }
 #footer h3{text-transform: uppercase; font-weight: bold; font-size: 1.2em;}
 #footer p{margin: 0;  text-transform: initial}
 #footer > img{margin: 0 0 2em 0;}

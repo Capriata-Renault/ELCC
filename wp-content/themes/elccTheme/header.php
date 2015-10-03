@@ -23,34 +23,32 @@
 
 <body>
 
-    <header>
-    <!--[if lt IE 8]>
-        <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
-    <![endif]-->
+ 
+  
+        <div class="navbar navbar-default navbar-fixed-top hidden-xs">
+           
+               
+                
+           
+                <div class="container">
+                    <div="row">
+                        <div class="col-sm-6">
+                            <a class="logo_nav" href="/elcc">
+                                <img class="logo" src="<?php echo get_template_directory_uri() ?>/img/logo-school.jpg" alt="" />
+                            </a>
+                        </div>
+                        <div class="col-sm-6">
+                            <nav class="navbar-collapse collapse">
+                            <?php wp_nav_menu( array( 'theme_location' => 'header-menu' ) ); ?>
+                            </nav>
+                        </div>
+                    </div>
+             </div><!-- /container -->
+            </div>
+       
     
     
-    <nav id="nav-bar" class="navbar navbar-default navbar-fixed-top">
-        <div class="container-fluid">
-        <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-            <a class="navbar-brand" href="#">elcc</a>
-        </div>
-        <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-            <ul class="nav navbar-nav navbar-right">
-                <li><a href="#agence">L'ecole</a></li>
-                <li><a href="#equipe">Les cours</a></li>
-                <li><a href="#solution">Partenariats</a></li>
-                <li><a href="#realisation">Actualités</a></li>
-                <li><a href="#question">Contact</a></li>
-            </ul>
-        </div><!-- /.navbar-collapse -->
-        </div><!-- /.container-fluid -->
-    </nav>
-</header>
+
+
+
+ 

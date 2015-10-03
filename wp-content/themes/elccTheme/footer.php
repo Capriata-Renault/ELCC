@@ -63,7 +63,7 @@
             </div> 
         </div> <!--row-->
         <div> <!--row-->
-            <div class="col-sm-12 mentions"><p class="p-mentions">Ecole de langue et de culture chinoise de Paris @2015 - tous droit réservés - <a href="#">mentions légales</a></p></div>
+            <div class="col-sm-12 mentions"><p class="p-mentions">Ecole de langue et de culture chinoise de Paris @2015 - tous droit réservés - <a href="http://localhost/elcc/mentions-legales">mentions légales</a></p></div>
         </div> <!--row-->
     </div> <!--container -->
 </section>

@@ -11,9 +11,10 @@
 <section data-sr="text-left" id="offres"> 
     <div class="container">
         <div class="row">
-            <div class="col-sm-12 texte-offre">
+            <div class="col-sm-12 texte-offre hidden-xs">
                 <h2 class=" x-large text-center texte-offre">découvrez nos différentes offres adaptées à vos besoins pédagogiques</h2>
             </div> <!--col-sm-12-->
+          
         </div> <!--row-->
         <div class="row">    
             <figure class="col-sm-3">
@@ -36,7 +37,7 @@
     </div> <!--container -->
 </section>
 
-<section data-sr="" id="cours">
+<section data-sr="" id="cours" class="hidden-xs">
     <div class="container">
         <div class="row">
             <div class="col-sm-12">
@@ -114,6 +115,6 @@
 
 <!--<script>window.sr = new scrollReveal();</script>  -->
 <?php endwhile;else : ?>
-    <p>desolé pas de centres pour l'instant...</p>
+    <p>desolé...</p>
 <?php endif; ?>
 <?php get_footer(); ?>
