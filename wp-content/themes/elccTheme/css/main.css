@@ -55,7 +55,7 @@ img {
 ******************************/
 .btn-slider-1, .btn-slider-2{text-transform: uppercase; background-color: transparent; border: 1px solid white; color:white; padding:1em 0 1em 0; margin:0 3em 14em 0;}
 .btn-slider-1:hover, .btn-slider-2:hover{background-color: transparent; border:1px solid #C0C0C0; transition-duration: 0.5s;}
-.carousel-caption{left:12%;} 
+.carousel-caption{left:15%;} 
 .titre-1-slider{color:white; font-size: 4em; text-transform: none; font-weight: lighter; margin: 0 0 0.6em 0; left:2%;}
 .titre-2-slider{color:white; font-size: 2em; text-transform: none; font-weight: lighter; margin: 0 0 2em 0;}
 /******************************
