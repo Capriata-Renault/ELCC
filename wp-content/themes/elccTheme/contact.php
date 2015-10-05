@@ -25,9 +25,10 @@ Récuperation du header
         </div> <!--row-->
         <div class="row">
             <div class="col-sm-6">
-                <h3 class=" text-left">telephone</h3>
-                <h4 class=" text-left">contact@contact.com</h4>
-                <h4 class=" text-left">Ecole de langue<br><br>et de culture chinoise de Paris<br><br>23 rue des trois freres 75018 Paris</h4>
+                <h3 class=" text-left"><?php the_field('telephone_p_contact'); ?></h3>
+                <h4 class=" text-left"><?php the_field('email_p_contact'); ?></h4>
+                <h4 class=" text-left"><?php the_field('nom_de_lecole_p_contact'); ?></h4>
+                <h4 class=" text-left"><?php the_field('adresse_p_contact'); ?></h4>
           
             </div> <!--col-sm-12-->
             <div class="form-index">

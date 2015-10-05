@@ -75,7 +75,8 @@ img {
 ******************************/
 #actu h3{margin:0 0 0.5em 0 ; font-weight: bold;}
 #actu p{margin: 0 0.8em 0 0; padding: 0 0 0 1em; }
-#actu a{width: 5.5em; padding: 0; margin:0 1em 0.5em 0;}
+#actu a{width: 5.5em; padding: 0; margin:0 1em 0.5em 0; color: black;}
+#actu a:hover{color: #15b2c7;}
 /******************************
 ***********CONTACT***********
 ******************************/
@@ -92,7 +93,6 @@ textarea:-moz-placeholder {color:white;}
 #contact :-moz-placeholder { color: #fff; }
 #contact p{padding: 2.8em 0 0 0 ; color:white;} 
 .btn-contact {text-align:right; }
-.btn-contact {text-align:right;}
 .form-index {padding-top: 1.8em;}
 
 /*----------------------------------------------------page ecole----------------------------------*/
@@ -102,10 +102,13 @@ textarea:-moz-placeholder {color:white;}
 #contact img{padding: 0;}
 /*------------------------------------------------------footer-------------------------------------*/
 #footer{border-top: 1px solid black; padding: 1em 0 2em 0; }
+#footer a{color:black; text-transform: none; }
+#footer a:hover{color:#15b2c7; }
 #footer h3{text-transform: uppercase; font-weight: bold; font-size: 1.2em;}
 #footer p{margin: 0;  text-transform: initial}
 #footer > img{margin: 0 0 2em 0;}
 .footer-ecole  , .footer-form-chin{padding-left: 5em;}
+
 /******************************
 *******ROW LOGO DE LECOLE*****
 ******************************/

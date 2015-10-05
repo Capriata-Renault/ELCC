@@ -6,8 +6,9 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Wild Editing Business</title>
-    <meta name="description" content="Le concours de recrutement des professeurs des écoles">
+    
+    <title>elcc</title>
+    <meta name="description" content="l'école de langue et de culture chinoise de paris">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
 
     <script src="<?php bloginfo('template_url'); ?>/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>

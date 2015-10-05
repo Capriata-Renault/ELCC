@@ -25,27 +25,27 @@
             </div> 
             <div class="col-sm-3 text-left footer-form-chin">
                 <h3>Formations chinois</h3>
-                <p><a href="#">cours chinois</a></p>
-                <p><a href="#">cours chinois</a></p>
-                <p><a href="#">cours chinois</a></p>
-                <p><a href="#">cours chinois</a></p>
-                <p><a href="#">cours chinois</a></p>
-                <p><a href="#">cours chinois</a></p>
-                <p><a href="#">cours chinois</a></p>
-                <p><a href="#">cours chinois</a></p>
-                <p><a href="#">cours chinois</a></p>
+                <p><a href="#">Cours enfant</a></p>
+                <p><a href="#">Cours adulte</a></p>
+                <p><a href="#">Cours pour voyageur</a></p>
+                <p><a href="#">Cours individuel</a></p>
+                <p><a href="#">Cours à domicile</a></p>
+                <p><a href="#">Formation en entreprise</a></p>
+                <p><a href="#">Formation à la carte</a></p>
+                <p><a href="#">Formation à la carte</a></p>
+                <p><a href="#">Etudier en chine</a></p>
                 <h3>contact</h3>
             </div> 
             <div class="col-sm-3 text-left footer-ecole">
                 <h3>L'école</h3>
-                <p><a href="#">cours chinois</a></p>
-                <p><a href="#">cours chinois</a></p>
-                <p><a href="#">cours chinois</a></p>
-                <p><a href="#">cours chinois</a></p>
-                <p><a href="#">cours chinois</a></p><br>
+                <p><a href="#">Présentation</a></p>
+                <p><a href="#">Nos enseignants</a></p>
+                <p><a href="#">Tarifs</a></p>
+                <p><a href="#">Calendrier</a></p>
+                <p><a href="#">Recrutement</a></p><br>
                 <h3>etablissements<br>educatifs</h3>
-                <p><a href="#">cours chinois</a></p>
-                <p><a href="#">cours chinois</a></p>
+                <p><a href="#">Intégration classe de chinois</a></p>
+                <p><a href="#">Echanges entre établissements</a></p>
              </div> 
             <div class="col-sm-3 div-reseaux">
                 <h3>Suivez-nous</h3>
