@@ -84,7 +84,7 @@ img {
 #contact .x-large {color:#fff;}
 #contact h3 {padding:1.2em 0 0.5em 0; margin:0; color:#fff;}
 #contact h4 {padding-bottom: 0.5em; color:#fff;}
-#contact textArea {background-color: transparent; border: 1px solid white; color:white;}
+#contact textArea {background-color: transparent; border: 1px solid white; color:white;border-radius: 0; }
 textarea:-moz-placeholder {color:white;}
 #contact input {background-color: transparent; border: 1px solid white;} 
 #contact ::-webkit-input-placeholder { color: #fff; }
@@ -94,6 +94,7 @@ textarea:-moz-placeholder {color:white;}
 #contact p{padding: 2.8em 0 0 0 ; color:white;} 
 .btn-contact {text-align:right; }
 .form-index {padding-top: 1.8em;}
+#contact input{border-radius: 0;}
 
 /*----------------------------------------------------page ecole----------------------------------*/
 /*----------------------------------------------------page partenaire-----------------------------*/

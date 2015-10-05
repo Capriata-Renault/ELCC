@@ -15,7 +15,6 @@ Récuperation du header
 <div id="page-ecole">
     <img src ="<?php bloginfo('template_directory'); ?>/img/photo-fond.jpg" alt="img 1">
  
-
 <div class="container">
     
     <div class="text-titre col-sm-8 col-sm-offset-2 text-center">

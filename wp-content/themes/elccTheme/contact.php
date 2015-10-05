@@ -29,7 +29,6 @@ Récuperation du header
                 <h4 class=" text-left"><?php the_field('email_p_contact'); ?></h4>
                 <h4 class=" text-left"><?php the_field('nom_de_lecole_p_contact'); ?></h4>
                 <h4 class=" text-left"><?php the_field('adresse_p_contact'); ?></h4>
-          
             </div> <!--col-sm-12-->
             <div class="form-index">
                 <?php echo do_shortcode ('[contact-form-7 id="10" title="Formulaire de contact 1"]');?>
